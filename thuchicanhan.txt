@@ -1,0 +1,2 @@
+1|Luong thang 10|8000000|Thu|Luong|13|10
+5|An com trua|30000|Chi|An uong|1|10
